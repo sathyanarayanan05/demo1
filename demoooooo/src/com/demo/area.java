@@ -4,5 +4,8 @@ public class area {
 	public void area() {
 		
 	}
+	public void sub() {
+	
+	}
 
 }
